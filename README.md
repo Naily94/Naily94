@@ -24,6 +24,6 @@
   <a href="https://www.linkedin.com/in/carolina-da-silva-de-oliveira-330642bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Naily94
-/devemdobro/blob/output/github-contribution-grid-snake.svg)
+/Naily94/blob/output/github-contribution-grid-snake.svg)
 
 </div>
